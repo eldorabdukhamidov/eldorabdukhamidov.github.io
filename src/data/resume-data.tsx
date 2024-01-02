@@ -89,7 +89,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "Present",
       description:
-        "Developed new systems to enhance the efficacy of visual technology and adapted existing technology for specific tasks.Conducted research in vision engineering. Technologies: Python, AI/ ML frameworks.",
+        "Developed new systems to enhance the efficacy of visual technology and adapted existing technology for specific tasks.Conducted research in vision engineering. Technologies: Python, AI/ML frameworks.",
     },
     {
       company: "Toptal",
@@ -108,7 +108,7 @@ export const RESUME_DATA = {
       title: "Research Assistant",
       start: "2020",
       end: "2023",
-      description: "Conducted research in software security, web security, privacy, and ML / DL applications to computer security.",
+      description: "Conducted research in software security, web security, privacy, and ML/DL applications to computer security.",
     },
     {
       company: "Udacity",
