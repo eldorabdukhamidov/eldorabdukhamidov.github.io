@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react";
 import { Inter } from "next/font/google";
+import { GoogleTagManager } from '@next/third-parties/google'
 
 import "./globals.css";
 import React from "react";
@@ -24,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.className}>
       <body>{children}</body>
+      <GoogleTagManager gtmId="G-KKSG99DPFL" />
       <Analytics />
     </html>
   );
