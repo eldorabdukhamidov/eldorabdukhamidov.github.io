@@ -98,7 +98,7 @@ export const RESUME_DATA = {
       company: "Toptal",
       link: "https://www.toptal.com/",
       badges: ["Remote"],
-      title: "Flutter Developer",
+      title: "Mobile Developer",
       start: "2021",
       end: "Present",
       description:
