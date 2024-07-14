@@ -194,11 +194,25 @@ export const RESUME_DATA = {
 
   researchPapers: [
     {
+      title: "AdViT: Attacking Interpretable Vision Transformers",
+      status: ["Under Review"],
+      authors: "E. Abdukhamidov, M. Abuhamad, S. Woo, H. Kim, T. Abuhmed",
+      venue: "IEEE Transactions on Image Processing",
+      // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
+    },
+    {
+      title: "Stealthy Query-Efficient Black-Box Attack against Interpretable Deep Learning",
+      status: ["Under Review", "Revision"],
+      authors: "E. Abdukhamidov, M. Abuhamad, S. Woo, E. Chan-Tin, T. Abuhmed",
+      venue: "IEEE Transactions on Reliability",
+      // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
+    },
+    {
       title: "SingleADV: Single-Class Target-Specific Attack against Interpretable Deep Learning Systems",
       status: [],
       authors: "E. Abdukhamidov, M. Abuhamad, G. K.Thiruvathukal, H. Kim, T. Abuhmed",
       venue: "IEEE Transactions on Information Forensics & Security",
-      // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
+      link: "https://ieeexplore.ieee.org/abstract/document/10542231",
     },
     {
       title: "Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses",
