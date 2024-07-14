@@ -22,7 +22,7 @@ import { ScholarIcon } from "@/components/icons/scholarIcon";
 
 
 export const RESUME_DATA = {
-  name: "Eldor Abdukhamidov",
+  name: "Eldor Abdukhamidov, PhD",
   initials: "EA",
   location: "Seoul, South Korea",
   locationLink: "https://www.google.com/maps/place/Seoul",
@@ -195,7 +195,7 @@ export const RESUME_DATA = {
   researchPapers: [
     {
       title: "SingleADV: Single-Class Target-Specific Attack against Interpretable Deep Learning Systems",
-      status: ['Under Review', 'Revision'],
+      status: [],
       authors: "E. Abdukhamidov, M. Abuhamad, G. K.Thiruvathukal, H. Kim, T. Abuhmed",
       venue: "IEEE Transactions on Information Forensics & Security",
       // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
