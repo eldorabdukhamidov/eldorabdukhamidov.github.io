@@ -270,6 +270,13 @@ export const RESUME_DATA = {
   ],
   leadershipAndAwards: [
     {
+      name: "SecureAI (Cybersecurity training in AI)",
+      badges: ['Speaker'],
+      organization: "Loyola University Chicago",
+      date: "2024",
+      role: ""
+    },
+    {
       name: "President Tech Award Competition in Cyber Security",
       badges: ['Finalist'],
       organization: "IT Park",
