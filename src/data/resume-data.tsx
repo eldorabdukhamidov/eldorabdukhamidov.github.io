@@ -24,7 +24,7 @@ import { ScholarIcon } from "@/components/icons/scholarIcon";
 export const RESUME_DATA = {
   name: "Eldor Abdukhamidov, PhD",
   initials: "EA",
-  location: "Seoul, South Korea",
+  location: "Jizzakh, Uzbekistan",
   locationLink: "https://www.google.com/maps/place/Seoul",
   about:
     "AI Engineer focused on Computer Vision. Mobile Developer specialized in Android and iOS applications using Flutter technologies. Committed to developing detailed, robust solutions.",
