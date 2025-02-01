@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       badges: ["South Korea", "Seoul"],
       title: "AI Researcher",
       start: "2022",
-      end: "Present",
+      end: "2025",
       description:
         "Developed new systems to enhance the efficacy of visual technology and adapted existing technology for specific tasks.Conducted research in vision engineering. Technologies: Python, AI/ ML frameworks.",
     },
