@@ -280,6 +280,13 @@ export const RESUME_DATA = {
       name: "SecureAI (Cybersecurity training in AI)",
       badges: ['Speaker'],
       organization: "Loyola University Chicago",
+      date: "2025",
+      role: ""
+    },
+    {
+      name: "SecureAI (Cybersecurity training in AI)",
+      badges: ['Speaker'],
+      organization: "Loyola University Chicago",
       date: "2024",
       role: ""
     },
