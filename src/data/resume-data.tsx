@@ -209,7 +209,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Stealthy Query-Efficient Black-Box Attack against Interpretable Deep Learning",
-      status: ["Under Review", "Revision"],
+      status: [],
       authors: "E. Abdukhamidov, M. Abuhamad, S. Woo, E. Chan-Tin, T. Abuhmed",
       venue: "IEEE Transactions on Reliability",
       // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
