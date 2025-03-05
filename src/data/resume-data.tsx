@@ -277,6 +277,13 @@ export const RESUME_DATA = {
   ],
   leadershipAndAwards: [
     {
+      name: "IDEATHON 2025 competition",
+      badges: ['Winner'],
+      organization: "IT Park",
+      date: "2025",
+      role: ""
+    },
+    {
       name: "SecureAI (Cybersecurity training in AI)",
       badges: ['Speaker'],
       organization: "Loyola University Chicago",
