@@ -202,7 +202,7 @@ export const RESUME_DATA = {
     },
     {
       title: "AdvChar: Attacking Interpretable NLP Systems",
-      status: ["IEEE Transactions on Information Forensics & Security"],
+      status: [],
       authors: "E. Abdukhamidov, T. Abuhmed, J. C. S. Santos, M. Abuhamad",
       venue: "IEEE Transactions on Information Forensics & Security",
       // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
