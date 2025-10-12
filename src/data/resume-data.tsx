@@ -194,17 +194,17 @@ export const RESUME_DATA = {
 
   researchPapers: [
     {
-      title: "AdvChar: Attacking Interpretable NLP Systems",
-      status: ["Under Review"],
-      authors: "E. Abdukhamidov, T. Abuhmed, J. C. S. Santos, M. Abuhamad",
-      venue: "IEEE Transactions on Information Forensics & Security",
-      // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
-    },
-    {
       title: "AdViT: Attacking Interpretable Vision Transformers",
       status: ["Under Review"],
       authors: "E. Abdukhamidov, M. Abuhamad, S. Woo, H. Kim, T. Abuhmed",
       venue: "IEEE Transactions on Image Processing",
+      // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
+    },
+    {
+      title: "AdvChar: Attacking Interpretable NLP Systems",
+      status: ["IEEE Transactions on Information Forensics & Security"],
+      authors: "E. Abdukhamidov, T. Abuhmed, J. C. S. Santos, M. Abuhamad",
+      venue: "IEEE Transactions on Information Forensics & Security",
       // link: "https://ieeexplore.ieee.org/abstract/document/10352932/",
     },
     {
