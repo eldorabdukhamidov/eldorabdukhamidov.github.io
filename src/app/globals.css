@@ -78,3 +78,30 @@
 .print-force-new-page {
   page-break-before: always;
 }
+
+.toptal-badge-hex {
+  clip-path: polygon(50% 0, 100% 24%, 100% 76%, 50% 100%, 0 76%, 0 24%);
+}
+
+.toptal-badge-hex.toptal-badge-surface {
+  display: flex;
+  width: calc(var(--toptal-badge-size, 200px) - 12px);
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1.5rem 1rem 2rem;
+  background:
+    radial-gradient(circle at 20% -10%, hsl(var(--primary) / 0.15) -80%, hsl(var(--background)) 30%),
+    radial-gradient(circle at -20% 20%, hsl(var(--primary) / 0.18) -80%, hsl(var(--background)) 30%),
+    radial-gradient(circle at 70% 100%, hsl(var(--primary) / 0.18) -80%, hsl(var(--background)) 30%),
+    radial-gradient(circle at 120% 80%, hsl(var(--primary) / 0.12) -80%, hsl(var(--background)) 30%);
+  background-blend-mode: multiply;
+  box-shadow: 0 28px 50px hsl(var(--primary) / 0.22);
+}
+
+.toptal-badge-hex:not(.toptal-badge-surface) {
+  display: inline-flex;
+  width: var(--toptal-badge-size, 200px);
+  padding: 6px;
+  background: hsl(var(--primary) / 0.2);
+}
